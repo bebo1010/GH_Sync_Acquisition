@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Camera Log
+camera_log.txt
+
+# Recorded Videos
+*.mkv
